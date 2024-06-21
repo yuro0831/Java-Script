@@ -1,0 +1,11 @@
+console.log("HEllo World");
+console.log("Hello " + "World!!");
+window.alert("Hello World!!");
+console.log(65536);
+console.log(10 + 5);
+console.log(10 * 5);
+console.log(10 % 2);
+console.log(10 % 3);
+console.log("10+" + "8");
+console.log(10 + 8);
+console.log("20割る3の余りは" + (20 % 3));
